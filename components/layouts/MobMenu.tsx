@@ -20,7 +20,7 @@ function MobMenu() {
 
   return (
     <MobileMenu>
-      <Link href="/index2">
+      <Link href="/index">
         <a>
           <span className={headUrl === "" ? "on" : "off"}> 홈</span>
         </a>
